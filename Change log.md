@@ -39,3 +39,12 @@ for improved maintainability. Removed redundant styling, standardized spacing, a
 
 ### Completed major UI and UX improvements across the Urban Society Studios website.
 Implemented modern typography, responsive layouts, hover animations, product card enhancements, team member grids, contact page styling, and overall design refinements to create a professional fashion-inspired user experience.
+
+### Added jQuery library
+to all HTML pages to enable interactive functionality and DOM manipulation.
+
+### Implemented external script
+linking by including the jQuery CDN before the main JavaScript file (script.js) to ensure proper loading order.
+
+### Updated all pages to consistently load jQuery
+allowing features such as search filtering, animations, and dynamic content to function correctly across the entire website.
